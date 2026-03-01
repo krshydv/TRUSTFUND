@@ -23,13 +23,13 @@ Key architectural components include:
 
 ## Features
 
-- 📢 **Campaign Management** — Create, manage, and track crowdfunding campaigns
-- 💳 **Secure Payments** — Online donations powered by PayPal
-- 📊 **Real-Time Tracking** — Live transaction monitoring and history
-- 🔍 **Transparent Records** — Clear and accessible fund management
-- 🏗️ **RESTful API** — Clean, resource-oriented API architecture
-- 🧩 **MVC Architecture** — Modular controllers, routes, and middleware
-- 🔄 **End-to-End Workflow** — Fully functional from campaign creation to donation receipt
+-  **Campaign Management** — Create, manage, and track crowdfunding campaigns
+-  **Secure Payments** — Online donations powered by PayPal
+-  **Real-Time Tracking** — Live transaction monitoring and history
+-  **Transparent Records** — Clear and accessible fund management
+-  **RESTful API** — Clean, resource-oriented API architecture
+-  **MVC Architecture** — Modular controllers, routes, and middleware
+-  **End-to-End Workflow** — Fully functional from campaign creation to donation receipt
 
 ---
 
@@ -114,7 +114,7 @@ npx serve trustfund-frontend
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 | Variable | Description |
 |---|---|
