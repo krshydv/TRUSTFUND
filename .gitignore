@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+__MACOSX/
+.DS_Store
+node_modules/
+.env
